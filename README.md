@@ -44,3 +44,20 @@ graph TD
     C --> E[On-Premises Data Gateway]
     E --> F[Update SAP Payroll/HR Module]
     F --> G[Employee Receives Final Confirmation]
+
+---
+
+## 📉 Measurable Impact: The "Operations" Win
+
+| Metric | Legacy (Manual) | Post-Implementation | Strategic Value |
+| :--- | :--- | :--- | :--- |
+| **HR Processing Time** | 40+ Hours / Month | **0 Hours (Automated)** | **Reclaimed 1 week of productivity/mo** |
+| **Workflow Velocity** | 3-5 Days per request | **Near-Instant** | **Enhanced Workforce Mobility** |
+| **Data Integrity** | Manual Entry Risks | **SAP-Validated** | **Audit-Ready Financials** |
+
+---
+
+## 💡 Key Takeaways for Scale
+1. **Focus on the Friction:** The best IT projects don't start with "new tech," they start with "human pain." Solving the HR bottleneck earned IT a seat at the strategic table.
+2. **User-Centric Design:** By building in SharePoint Online, we provided a familiar interface that required minimal training for a 1,000+ user base.
+3. **Efficiency as a Culture:** Automation isn't just about code; it's about shifting the organizational mindset from "paper-heavy" to "digital-first."
