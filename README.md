@@ -44,9 +44,7 @@ graph TD
     C --> E[On-Premises Data Gateway]
     E --> F[Update SAP Payroll/HR Module]
     F --> G[Employee Receives Final Confirmation]
-
----
-
+```
 ## 📉 Measurable Impact: The "Operations" Win
 
 | Metric | Legacy (Manual) | Post-Implementation | Strategic Value |
